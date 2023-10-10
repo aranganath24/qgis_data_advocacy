@@ -1,0 +1,18 @@
+--- 
+title: "Mapping in QGIS for Data Advocacy"
+author: "Aditya Ranganath"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+# Introduction
+
+This tutorial provides a brief overview on how to map data in Quantum Geographic Information Systems (QGIS); it is designed for use in a course on data advocacy. Instructions for how to download the open-source QGIS application are available at the [QGIS project site](https://www.qgis.org/en/site/forusers/download.html). 
+
+Our applied example in the tutorial will demonstrate how to map data on state-level variation in the average indebtedness of student borrowers in the year 2020. Data for the exercise comes from the [Institute for College Access and Success](https://ticas.org/interactive-map/) and can be downloaded from their website. 
+
+Data to complete the exercises (including the student debt data from the Institute for College Access and Success) can be found here: [https://drive.google.com/drive/folders/1GpXKSwTlzdeoW2rmjZrSiqvtYrtI-p_k?usp=sharing](https://drive.google.com/drive/folders/1GpXKSwTlzdeoW2rmjZrSiqvtYrtI-p_k?usp=sharing). 
+
+In what follows, Section 2 provides a brief overview of Geographic Information Systems (GIS). Section 3 provides a hands-on tutorial on making simple maps in QGIS by demonstrating how to map the student debt data discussed above. Section 4 offers discussion questions and exercises that can be completed after the completion of the tutorial in Section 3. 
+
+
+

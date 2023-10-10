@@ -1,0 +1,8 @@
+# GIS Basics
+
+A geographic information system (GIS) is a platform used to capture, store, analyze, manage, and display various forms of geographically referenced information. GIS is used in dozens of disciplines, ranging from ecology to literary studies to economics, and can also be useful in applied policy and data-based advocacy settings.
+
+GIS allows us to:
+
+  * Combine disparate layers of geospatial information to explore and highlight interesting and relevant    connections and relationships
+  * 
